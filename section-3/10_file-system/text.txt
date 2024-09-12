@@ -1,0 +1,5 @@
+Absolute Path
+C:\Users\anura\OneDrive\Desktop\web-dev\nodejs-course\section-3\10_file-system\text.txt
+Relative Path
+src\text.js
+.\src\text.js

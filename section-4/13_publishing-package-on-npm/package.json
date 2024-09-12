@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "procodrr": "^1.0.1"
+  }
+}

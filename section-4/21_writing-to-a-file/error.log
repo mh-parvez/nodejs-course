@@ -1,0 +1,28 @@
+
+4:53:19 pm
+ENOENT: no such file or directory, open 'C:\Users\anura\OneDrive\Desktop\web-dev\nodejs-course\section-4\21_writing-to-a-file\nodejss.png'
+Error: ENOENT: no such file or directory, open 'C:\Users\anura\OneDrive\Desktop\web-dev\nodejs-course\section-4\21_writing-to-a-file\nodejss.png'
+    at async open (node:internal/fs/promises:639:25)
+    at async readFile (node:internal/fs/promises:1242:14)
+    at async file:///C:/Users/anura/OneDrive/Desktop/web-dev/nodejs-course/section-4/21_writing-to-a-file/app.js:8:25
+4:53:47 pm
+
+ENOENT: no such file or directory, open 'C:\Users\anura\OneDrive\Desktop\web-dev\nodejs-course\section-4\21_writing-to-a-file\nodejss.png'
+Error: ENOENT: no such file or directory, open 'C:\Users\anura\OneDrive\Desktop\web-dev\nodejs-course\section-4\21_writing-to-a-file\nodejss.png'
+    at async open (node:internal/fs/promises:639:25)
+    at async readFile (node:internal/fs/promises:1242:14)
+    at async file:///C:/Users/anura/OneDrive/Desktop/web-dev/nodejs-course/section-4/21_writing-to-a-file/app.js:8:25
+
+4:54:03 pm
+ENOENT: no such file or directory, open 'C:\Users\anura\OneDrive\Desktop\web-dev\nodejs-course\section-4\21_writing-to-a-file\nodejss.png'
+Error: ENOENT: no such file or directory, open 'C:\Users\anura\OneDrive\Desktop\web-dev\nodejs-course\section-4\21_writing-to-a-file\nodejss.png'
+    at async open (node:internal/fs/promises:639:25)
+    at async readFile (node:internal/fs/promises:1242:14)
+    at async file:///C:/Users/anura/OneDrive/Desktop/web-dev/nodejs-course/section-4/21_writing-to-a-file/app.js:8:25
+
+4:54:20 pm
+ENOENT: no such file or directory, open 'C:\Users\anura\OneDrive\Desktop\web-dev\nodejs-course\section-4\21_writing-to-a-file\nodejss.png'
+Error: ENOENT: no such file or directory, open 'C:\Users\anura\OneDrive\Desktop\web-dev\nodejs-course\section-4\21_writing-to-a-file\nodejss.png'
+    at async open (node:internal/fs/promises:639:25)
+    at async readFile (node:internal/fs/promises:1242:14)
+    at async file:///C:/Users/anura/OneDrive/Desktop/web-dev/nodejs-course/section-4/21_writing-to-a-file/app.js:8:25

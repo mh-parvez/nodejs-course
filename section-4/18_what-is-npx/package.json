@@ -1,0 +1,14 @@
+{
+  "name": "my-app",
+  "bin": "app.xyz",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "procodrr": "^1.0.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.4"
+  }
+}

@@ -1,0 +1,48 @@
+{
+    "t": {
+        "$date": "2025-02-17T00:28:56.720+05:30"
+    },
+    "s": "W",
+    "c": "STORAGE",
+    "id": 20294,
+    "ctx": "conn5",
+    "msg": "Document would fail validation",
+    "attr": {
+        "namespace": "test.users",
+        "document": {
+            "_id": {
+                "$oid": "67b2357082e443da52cb0ce6"
+            },
+            "name": "Keshav",
+            "age": 90
+        },
+        "errInfo": {
+            "failingDocumentId": {
+                "$oid": "67b2357082e443da52cb0ce6"
+            },
+            "details": {
+                "operatorName": "$jsonSchema",
+                "schemaRulesNotSatisfied": [
+                    {
+                        "operatorName": "properties",
+                        "propertiesNotSatisfied": [
+                            {
+                                "propertyName": "age",
+                                "details": [
+                                    {
+                                        "operatorName": "maximum",
+                                        "specifiedAs": {
+                                            "maximum": 80
+                                        },
+                                        "reason": "comparison failed",
+                                        "consideredValue": 90
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
